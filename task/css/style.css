@@ -1,0 +1,61 @@
+body {background-color:white!important}
+
+.container {
+    margin-top: 50px;
+    width: 25%!important;
+}
+
+form {
+    background: #2FCC9A;
+    border: 2px solid #228e6c;
+    border-radius: 10px;
+    padding: 20px 10px;
+}
+
+#task {
+    width: 60%;
+    float: left;
+    margin-right: 5%
+}
+
+.deals li {
+    width: 530px;
+    list-style: none;
+    padding: 15px;
+    margin-top: 5px;
+    background: #fcfcfc;
+    border: 1px solid silver;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.deals li:hover {
+    background: #e5e5e5;
+}
+
+.deals button {
+    border: 0;
+    position: absolute;
+    width: 100px;
+    height: 35px;
+    margin-right: 20px;
+    color: white;
+    font-size: 13px;
+    background: #db5757;
+    border-radius: 5px;
+    right: 400px;
+}
+
+.deals button:hover {
+    background: #a04141;
+}
+
+.deals button a {
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+}
+
+
+
